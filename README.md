@@ -13,6 +13,12 @@ With the above step done, you can now go back to the web app and interract with 
 - Adding customer details
 - Then viewing the data in the datatable
 
+## some screenshots
+
+| CustomerPage Screenshot  | LandingPage Screenshot |
+| ------------- | ------------- |
+| ![CustomerPage](/Screenshot%20from%202022-08-29%2016-06-08.png "frontpage")  | ![LandingPage](/Screenshot%20from%202022-08-29%2016-21-04.png) |
+
 # Read More to acquint yourself with the various tools used
 
 ## Tools used in development in the backend
