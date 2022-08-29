@@ -2,15 +2,19 @@
 
 This documentation has been hosted at <https://mherman22.github.io/customer/>
 
-This webapp has been created with the sole aim of collecting the `Name` `Email address,Customer feedback and the GPS location of the respondent`.
+Find the backend repository at <https://github.com/mherman22/customer>
 
-To achieve the above, i have used Reactjs for the frontEnd and Java's Spring framework to comeup with the restful backend of the webapp.
+Find the frontend repository at <https://github.com/mherman22/feedback>
 
-To interract with the webapp, visit <https://mherman22.github.io/feedback/#/landingpage> to have a view of the frontend which i deployed using github pages.
+- This webapp has been created with the sole aim of collecting the `Name` `Email address,Customer feedback and the GPS location of the respondent`.
 
-However, to carryout CRUD operations on the web app, please clone the backend service using `git clone https://github.com/mherman22/customer` and setup `mysql` and then cd into the project folder by doing `cd customer` and then trigger `mvn spring-boot:run` which will run the server onto which the restful service can be accessed.
+- To achieve the above, i have used Reactjs for the frontEnd and Java's Spring framework to comeup with the restful backend of the webapp.
 
-With the above step done, you can now go back to the web app and interract with it by;
+- To interract with the webapp, visit <https://mherman22.github.io/feedback/#/landingpage> to have a view of the frontend which i deployed using github pages.
+
+- However, to carryout CRUD operations on the web app, please clone the backend service using `git clone https://github.com/mherman22/customer` and setup `mysql` and then cd into the project folder by doing `cd customer` and then trigger `mvn spring-boot:run` which will run the server onto which the restful service can be accessed.
+
+- With the above step done, you can now go back to the web app and interract with it by;
 
 - Adding customer details
 - Then viewing the data in the datatable
