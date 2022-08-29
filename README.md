@@ -4,7 +4,7 @@ This webapp has been created with the sole aim of collecting the `Name` `Email a
 
 To achieve the above, i have used Reactjs for the frontEnd and Java's Spring framework to comeup with the restful backend of the webapp.
 
-To interract with the webapp, visit <https://github.com/mherman22/customer> to have a view of the frontend which i deployed using github pages.
+To interract with the webapp, visit <https://mherman22.github.io/feedback/#/landingpage> to have a view of the frontend which i deployed using github pages.
 
 However, to carryout CRUD operations on the web app, please clone the backend service using `git clone https://github.com/mherman22/customer` and setup `mysql` and then cd into the project folder by doing `cd customer` and then trigger `mvn spring-boot:run` which will run the server onto which the restful service can be accessed.
 
