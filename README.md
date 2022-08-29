@@ -129,7 +129,7 @@ The page will reload when you make changes. You may also see any lint errors in 
 ### How to contribute to this project?
 
 - fork this repository.
-- clone it onto your machine by running `git clone https://github.com/mherman22/KTMInv-frontend.git`.
+- clone it onto your machine by running `git clone https://github.com/mherman22/feedback`.
 - make your changes and test them to ensure everything perfect.
 - create a branch `git checkout -b branch-name`.
 - commit your changes to your branch using `git add .` and  `git commit -m "commit message"`.
