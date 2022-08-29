@@ -1,6 +1,21 @@
 # customer FeedBack App
 
-### Tools used in development in the backend
+This webapp has been created with the sole aim of collecting the `Name` `Email address,Customer feedback and the GPS location of the respondent`.
+
+To achieve the above, i have used Reactjs for the frontEnd and Java's Spring framework to comeup with the restful backend of the webapp.
+
+To interract with the webapp, visit <https://github.com/mherman22/customer> to have a view of the frontend which i deployed using github pages.
+
+However, to carryout CRUD operations on the web app, please clone the backend service using `git clone https://github.com/mherman22/customer` and setup `mysql` and then cd into the project folder by doing `cd customer` and then trigger `mvn spring-boot:run` which will run the server onto which the restful service can be accessed.
+
+With the above step done, you can now go back to the web app and interract with it by;
+
+- Adding customer details
+- Then viewing the data in the datatable
+
+# Read More to acquint yourself with the various tools used
+
+## Tools used in development in the backend
 
 - Java 8
 - Spring Boot
